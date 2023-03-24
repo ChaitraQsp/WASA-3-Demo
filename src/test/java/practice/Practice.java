@@ -10,9 +10,20 @@ public class Practice {
 		
 		System.out.println("SAMPLE");
 		
+		
+		
+		
 		System.out.println("sample2");
 		
+		
+		
+		
 		System.out.println("hello");
+		
+		
+		
+		
+		System.out.println("hi");
 		
 	}
 
