@@ -12,6 +12,8 @@ public class Practice {
 		
 		System.out.println("sample2");
 		
+		System.out.println("hello");
+		
 	}
 
 }
