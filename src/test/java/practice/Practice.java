@@ -10,11 +10,23 @@ public class Practice {
 		
 		System.out.println("SAMPLE");
 		
+		
+		
+		
 		System.out.println("sample2");
+		
+		
+		
 		
 		System.out.println("hello");
 		
+
 		System.out.println("This can b conflict");
+
+		
+		
+		System.out.println("hi");
+
 		
 	}
 
