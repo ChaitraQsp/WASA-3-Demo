@@ -14,6 +14,8 @@ public class Practice {
 		
 		System.out.println("hello");
 		
+		System.out.println("This can b conflict");
+		
 	}
 
 }
